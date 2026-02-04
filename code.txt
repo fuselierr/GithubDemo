@@ -1,0 +1,2 @@
+Imagine there was some code here that does stuff.
+Github will manage this code very well!
