@@ -3,4 +3,4 @@ Github will manage this code very well!
 
 Imagine I added some extra code here.
 
-changes to branch 2
+changes from branch 1
